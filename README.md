@@ -24,11 +24,13 @@ Et une partie pour pouvoir gerer les promos, réductions ou encore en période d
 Afin de visionner le site web de vente de drone il faudra ce rendre sur l'url suivante :
 
 http://SWD/Accueil
+
 Une fois sur le site vous pouvez explorer les différentes pages et pouvoir passer commandes.
 
 Pour l'application il faudra allez sur le portfolio :
 
 http://Portfolio/DL_SWD
+
 Et installer le SWD.exe afin de pouvoir gérer l'application
 
 # Informations sur l'environnement
