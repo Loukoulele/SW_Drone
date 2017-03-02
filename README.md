@@ -56,6 +56,7 @@ Une fois l'installation fini, vous pourrez executer l'application, il y aura un 
 Par défaut rentrer les infos suivantes :
 
 Pseudo : Admin
+
 Mot de Passe : password
 
 Une fois sur l'application vous pourrez explorer l'environnement afin de modifier,
