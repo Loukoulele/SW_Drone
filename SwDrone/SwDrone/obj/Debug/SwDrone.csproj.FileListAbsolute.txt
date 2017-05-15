@@ -1,0 +1,12 @@
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\bin\Debug\SwDrone.exe.config
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\bin\Debug\SwDrone.exe
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\bin\Debug\SwDrone.pdb
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\obj\Debug\SwDrone.csprojResolveAssemblyReference.cache
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\obj\Debug\SwDrone.Form1.resources
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\obj\Debug\SwDrone.Properties.Resources.resources
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\obj\Debug\SwDrone.csproj.GenerateResource.Cache
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\obj\Debug\SwDrone.exe
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\obj\Debug\SwDrone.pdb
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\bin\Debug\SWD_db.mdf
+c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\bin\Debug\SWD_db_log.ldf
+C:\Users\FUJITSU\Documents\Visual Studio 2015\Projects\SwDrone\SwDrone\bin\Debug\MySql.Data.dll
