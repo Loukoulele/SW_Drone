@@ -10,3 +10,5 @@ c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\obj\Debug
 c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\bin\Debug\SWD_db.mdf
 c:\users\fujitsu\documents\visual studio 2015\Projects\SwDrone\SwDrone\bin\Debug\SWD_db_log.ldf
 C:\Users\FUJITSU\Documents\Visual Studio 2015\Projects\SwDrone\SwDrone\bin\Debug\MySql.Data.dll
+C:\Users\FUJITSU\Documents\Visual Studio 2015\Projects\SwDrone\SwDrone\bin\Debug\itextsharp.dll
+C:\Users\FUJITSU\Documents\Visual Studio 2015\Projects\SwDrone\SwDrone\bin\Debug\itextsharp.xml
